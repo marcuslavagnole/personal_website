@@ -77,4 +77,4 @@ email: ""
 highlight_name: true
 ---
 
-I am a Data Analyst at Rio de Janeiro City Hall and also a DSc student in the Department of Statistical Methods at Federal University of Rio de Janeiro under the supervision of Professors Rodrigo S. Targino (EMAp/FGV) and Leandro P. R. Pimentel (IM/UFRJ). My research interests lie primarily in applying Bayesian statistical methods to social and actuarial problems.
+I am a Data Analyst at Rio de Janeiro City Hall and also a DSc student in the <a href="http://www.dme.ufrj.br" target="_blank">Department of Statistical Methods</a> at Federal University of Rio de Janeiro under the supervision of Professors <a href="https://rtargino.netlify.app" target="_blank">Rodrigo S. Targino</a> and <a href="http://lattes.cnpq.br/7310262578868601" target="_blank">Leandro P. R. Pimentel</a>. My research interests lie primarily in applying Bayesian statistical methods to social and actuarial problems.
