@@ -20,6 +20,7 @@ organizations:
 interests:
 - Bayesian Inference
 - Social Statistics
+- Life Insurance
 - Microeconometrics
 
 # Education to show in About widget
