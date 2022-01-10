@@ -62,7 +62,7 @@ social:
   link: https://www.linkedin.com/in/marcus-lavagnole-1b4568211/
 - icon: cv
   icon_pack: ai
-  link: '/static/uploads/CV.pdf'
+  link: uploads/CV.pdf
 
 # Link to a PDF of your resume/CV from the About widget.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
