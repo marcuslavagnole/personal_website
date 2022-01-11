@@ -26,9 +26,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
+  - course: DSc in Statistics
+    institution: Federal University of Rio de Janeiro
+    year: 2024 (Expected)
   - course: MSc in Statistics
     institution: Federal University of Rio de Janeiro
     year: 2017
