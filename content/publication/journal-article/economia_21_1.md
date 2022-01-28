@@ -16,7 +16,7 @@ abstract: This paper investigates the relation between inefficiency in the Brazi
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Economía, the journal of LACEA, 21*(1)"
+publication: "*Economía, the journal of LACEA, 21*(1), 147-168"
 publication_short: ""
 
 #tags:
