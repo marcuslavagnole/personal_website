@@ -5,7 +5,6 @@ authors:
 - Ralph S. Silva
 - Amaro Pereira
 - Mario Jorge Mendonça
-date: ""
 date: "2021-02-01T00:00:00Z"
 doi: "10.1080/02664763.2021.1890000"
 
