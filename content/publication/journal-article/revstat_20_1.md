@@ -15,7 +15,7 @@ abstract: This paper provides a flexible methodology for the class of finite mix
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*REVSTAT, Statistical Journal, 20*(1), 101-115"
+publication: "*REVSTAT, Statistical Journal*, 20(1), 101-115"
 publication_short: ""
 
 #tags:
