@@ -20,7 +20,7 @@ organizations:
 interests:
 - Bayesian Inference
 - Social Statistics
-- Econometrics
+#- Econometrics
 
 # Education to show in About widget
 education:
