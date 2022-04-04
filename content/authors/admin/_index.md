@@ -20,7 +20,6 @@ organizations:
 interests:
 - Bayesian Inference
 - Social Statistics
-#- Life Insurance
 - Econometrics
 
 # Education to show in About widget
@@ -43,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:marcuslavagnole@gmail.com'
+  link: 'mailto:marcus@dme.ufrj.br'
   #link: '/#contact'
 #- icon: twitter
 #  icon_pack: fab
