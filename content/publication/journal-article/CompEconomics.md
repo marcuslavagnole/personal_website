@@ -5,7 +5,7 @@ authors:
 - Kelly M. Gonçalves
 - Mario Jorge Mendonça
 date: ""
-date: "2021-12-01T00:00:00Z"
+date: "2022-04-13T00:00:00Z"
 #doi: "10.1080/02664763.2021.1950654"
 
 abstract: This paper proposes an extension of the Bayesian instrumental variables regression which allows spatial and temporal correlation among observations. For that, we introduce a double separable covariance matrix, adopting a Conditional Autoregressive structure for the spatial component, and a first-order autoregressive process for the temporal component. We also introduce a Bayesian multiple imputation to handle missing data considering uncertainty. The inference procedure is described joint with a step by step Monte Carlo Markov Chain (MCMC) algorithm for parameters estimation. We illustrate our methodology through a simulation study and a real application that investigates how broadband affects the Gross Domestic Product of municipalities in the state of Mato Grosso do Sul from 2010 to 2017.  
@@ -14,10 +14,10 @@ abstract: This paper proposes an extension of the Bayesian instrumental variable
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "R&R at *Computational Economics*"
+publication: "*Computational Economics*, Accepted"
 #publication: "*Journal of Applied Statistics*, Accepted"
 #publication_short: ""
 
