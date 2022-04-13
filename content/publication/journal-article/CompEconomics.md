@@ -18,12 +18,11 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Computational Economics*, Accepted"
-#publication: "*Journal of Applied Statistics*, Accepted"
 #publication_short: ""
 
 #tags:
 #- Source Themes
-featured: true
+#featured: true
 
 #links:
 #- name: ""
