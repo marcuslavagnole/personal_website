@@ -77,4 +77,4 @@ email: ""
 highlight_name: true
 ---
 
-I am a Data Analyst at Rio de Janeiro City Hall and also a DSc student in the <a href="http://www.dme.ufrj.br" target="_blank">Department of Statistical Methods</a> at Federal University of Rio de Janeiro. My research interests lie primarily in applying Bayesian statistical methods to social problems.
+I am a Data Analyst at Rio de Janeiro City Hall and also a DSc student in the <a href="http://www.dme.ufrj.br" target="_blank">Department of Statistical Methods</a> at Federal University of Rio de Janeiro under the supervision of Professor <a href="https://sites.google.com/dme.ufrj.br/kelly/" target="_blank">Kelly C. M. Gonçalves</a>. My research interests lie primarily in applying Bayesian statistical methods to social problems.
