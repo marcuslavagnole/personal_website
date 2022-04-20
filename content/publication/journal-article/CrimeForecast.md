@@ -1,5 +1,5 @@
 ---
-title: "Improving crime forecast via reconciliation"
+title: "Improving crime count forecasts via reconciliation"
 authors:
 - admin
 - Leonardo M. Barreto
