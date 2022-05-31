@@ -7,7 +7,7 @@ date: ""
 date: "2022-04-13T00:00:00Z"
 #doi: "10.1080/02664763.2021.1950654"
 
-#abstract: This paper proposes an extension of the Bayesian instrumental variables regression which allows spatial and temporal correlation among observations. For that, we introduce a double separable covariance matrix, adopting a Conditional Autoregressive structure for the spatial component, and a first-order autoregressive process for the temporal component. We also introduce a Bayesian multiple imputation to handle missing data considering uncertainty. The inference procedure is described joint with a step by step Monte Carlo Markov Chain (MCMC) algorithm for parameters estimation. We illustrate our methodology through a simulation study and a real application that investigates how broadband affects the Gross Domestic Product of municipalities in the state of Mato Grosso do Sul from 2010 to 2017.  
+abstract: Crime prediction based on reliable data and sound statistical methodologies can provide a valuable input for tactical deployment of police resources in so-called crime hot spots and effective planning of police operations. In Rio de Janeiro, the forecasts of criminal activity are used by Public Safety Secretariat to detect crime patterns and to evaluate police performance. This paper evaluates the impact of reconciliation on the forecasts of 271 series of registered criminal occurrences in the city of Rio de Janeiro on a monthly basis from January 2003 to December 2019, and verifies that reconciliation improves crime count forecasts specially on the most disaggregated series.  
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
