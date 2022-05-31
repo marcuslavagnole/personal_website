@@ -26,7 +26,7 @@ publication_short: ""
 #- name: ""
 #  url: ""
 #url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/marcuslavagnole/Paper_REVSTAT'
+url_code: 'https://github.com/marcuslavagnole/Paper_REVSTAT_Vol.20_No.1'
 #url_dataset: ''
 #url_poster: ''
 #url_project: ''

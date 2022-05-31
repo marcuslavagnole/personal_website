@@ -28,7 +28,7 @@ publication: "*Computational Economics*, Accepted"
 #- name: ""
 #  url: ""
 #url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/marcuslavagnole/Paper_IVST'
+url_code: 'https://github.com/marcuslavagnole/Paper_CompEconomics'
 #url_dataset: ''
 #url_poster: ''
 #url_project: ''
