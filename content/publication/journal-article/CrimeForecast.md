@@ -1,5 +1,5 @@
 ---
-title: "Improving crime count forecasts via reconciliation"
+title: "Improving crime count forecasts in the city of Rio de Janeiro via reconciliation"
 authors:
 - admin
 - Leonardo M. Barreto
@@ -16,7 +16,7 @@ abstract: Crime prediction based on reliable data and sound statistical methodol
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Preprint"
+publication: "Submitted"
 #publication_short: ""
 
 #tags:
